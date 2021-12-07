@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "first",
+      "body": "this is body of first",
+      "author": "vicky",
+      "id": 1
+    },
+    {
+      "title": "second",
+      "body": "this is body of second",
+      "author": "Vignesh",
+      "id": 2
+    }
+  ]
+}
